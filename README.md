@@ -110,7 +110,7 @@ We add some features to our summary to make it more understandable by applying t
       </a>
     </td>
     <td class="tg-0lax">
-      <a href = "mailto: Mostafa0522magdy@gmail.com">Send Email</a>
+      <a href = "mailto: mostafa01kafafy@gmail.com">Send Email</a>
     </td>
   </tr>
   <tr>
